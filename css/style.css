@@ -1,0 +1,44 @@
+.sfx_header {
+  z-index:998;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 45px;
+  overflow: visible;
+  background-color:white;
+  border-bottom:2px solid #FFCC66;
+  cursor:pointer;
+  display:none; 
+}
+.sfx_header span.sfx_message {
+  width: 300px;
+  margin-left: -150px;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  text-align:center;
+  font-size: .9em;
+  font-weight:bold;
+}
+#sfx_close {
+  position:absolute;
+  top:5px;
+  right:5px;
+  width: 50px;
+  z-index:999;
+  display:none; 
+}
+#sfx_image_holder {
+  text-align:left;
+}
+.sfx_label {
+    margin-bottom:10px;
+    display:block;
+    cursor: default;
+}
+#sfx_option_window {display:none;}
+img.sfx_ff_logo{width:26%;float:right;}
+h3.sfx_image_options{float:left;padding-top:20px;}
+#sfx_image_preview {background-color:#f4f4f4;padding:5px;}
+
