@@ -35,7 +35,6 @@ function sfx_widget ($strWidgetArgsArray) {
             %s
         ',
         $strWidgetArgsArray['before_widget'],
-		WP_PLUGIN_URL,      
 		($strParameterArray['strButtonListArray']) ? sfx_apply_image_js() : '',
         $strWidgetArgsArray['after_widget']
     );    
