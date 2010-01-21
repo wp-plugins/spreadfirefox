@@ -1,10 +1,10 @@
 ({
-    "version" : "1.0",
+    "version" : "1.1",
     "buttons" : [
         {
             "id" : 0,
             "size" : "120x240",
-            "src" : "/spreadfirefox/images/FF/FF35_FF_120x240.png",
+            "src" : "http://images.spreadfirefox.com/utw/3.6/FF35_FF_120x240.png",
             "browser" : "firefox",
             "locale" : "en-US",
             "url"   : "http://www.mozilla.com/?t=0"
@@ -12,7 +12,7 @@
         {
             "id" : 1,
             "size" : "160x280",
-            "src" : "/spreadfirefox/images/FF/FF35_FF_160x280.png",
+            "src" : "http://images.spreadfirefox.com/utw/3.6/FF35_FF_160x280.png",
             "browser" : "firefox",
             "locale" : "en-US",
             "url"   : "http://www.mozilla.com/?t=1"
@@ -20,7 +20,7 @@
         {
             "id" : 2,
             "size" : "180x150",
-            "src" : "/spreadfirefox/images/FF/FF35_FF_180x150.png",
+            "src" : "http://images.spreadfirefox.com/utw/3.6/FF35_FF_180x150.png",
             "browser" : "firefox",
             "locale" : "en-US",
             "url"   : "http://www.mozilla.com/?t=2"
@@ -28,7 +28,7 @@
         {
             "id" : 3,
             "size" : "468x60",
-            "src" : "/spreadfirefox/images/FF/FF35_FF_468x60.png",
+            "src" : "http://images.spreadfirefox.com/utw/3.6/FF35_FF_468x60.png",
             "browser" : "firefox",
             "locale" : "en-US",
             "url"   : "http://www.mozilla.com/?t=3"
@@ -36,7 +36,7 @@
         {
             "id" : 4,
             "size" : "728x90",
-            "src" : "/spreadfirefox/images/FF/FF35_FF_728x90.png",
+            "src" : "http://images.spreadfirefox.com/utw/3.6/FF35_FF_728x90.png",
             "browser" : "firefox",
             "locale" : "en-US",
             "url"   : "http://www.mozilla.com/?t=4"
@@ -44,7 +44,7 @@
         {
             "id" : 5,
             "size" : "860x60",
-            "src" : "/spreadfirefox/images/FF/FF35_FF_860x60.png",
+            "src" : "http://images.spreadfirefox.com/utw/3.6/FF35_FF_860x60.png",
             "browser" : "firefox",
             "locale" : "en-US",
             "url"   : "http://www.mozilla.com/?t=5"
@@ -52,55 +52,55 @@
         {
             "id" : 6,
             "size" : "120x240",
-            "src" : "/spreadfirefox/images/FF35/FF35_35_120x240.png",
-            "browser" : "firefox35",
+            "src" : "http://images.spreadfirefox.com/utw/3.6/FF35_36_120x240.png",
+            "browser" : "firefox36",
             "locale" : "en-US",
             "url"   : "http://www.mozilla.com/?t=6"
         },
         {
             "id" : 7,
             "size" : "160x280",
-            "src" : "/spreadfirefox/images/FF35/FF35_35_160x280.png",
-            "browser" : "firefox35",
+            "src" : "http://images.spreadfirefox.com/utw/3.6/FF35_36_160x280.png",
+            "browser" : "firefox36",
             "locale" : "en-US",
             "url"   : "http://www.mozilla.com/?t=7"
         },
         {
             "id" : 8,
             "size" : "180x150",
-            "src" : "/spreadfirefox/images/FF35/FF35_35_180x150.png",
-            "browser" : "firefox35",
+            "src" : "http://images.spreadfirefox.com/utw/3.6/FF35_36_180x150.png",
+            "browser" : "firefox36",
             "locale" : "en-US",
             "url"   : "http://www.mozilla.com/?t=8"
         },
         {
             "id" : 9,
             "size" : "468x60",
-            "src" : "/spreadfirefox/images/FF35/FF35_35_468x60.png",
-            "browser" : "firefox35",
+            "src" : "http://images.spreadfirefox.com/utw/3.6/FF35_36_468x60.png",
+            "browser" : "firefox36",
             "locale" : "en-US",
             "url"   : "http://www.mozilla.com/?t=9"
         },
         {
             "id" : 10,
             "size" : "728x90",
-            "src" : "/spreadfirefox/images/FF35/FF35_35_728x90.png",
-            "browser" : "firefox35",
+            "src" : "http://images.spreadfirefox.com/utw/3.6/FF35_36_728x90.png",
+            "browser" : "firefox36",
             "locale" : "en-US",
             "url"   : "http://www.mozilla.com/?t=10"
         },
         {
             "id" : 11,
             "size" : "860x60",
-            "src" : "/spreadfirefox/images/FF35/FF35_35_860x60.png",
-            "browser" : "firefox35",
+            "src" : "http://images.spreadfirefox.com/utw/3.6/FF35_36_860x60.png",
+            "browser" : "firefox36",
             "locale" : "en-US",
             "url"   : "http://www.mozilla.com/?t=11"
         },
         {
             "id" : 12,
             "size" : "120x240",
-            "src" : "/spreadfirefox/images/IE/FF35_IE_120x240.png",
+            "src" : "http://images.spreadfirefox.com/utw/3.6/FF35_IE_120x240.png",
             "browser" : "msie",
             "locale" : "en-US",
             "url"   : "http://www.mozilla.com/en-US/firefox/upgrade.html?t=12"
@@ -108,7 +108,7 @@
         {
             "id" : 13,
             "size" : "160x280",
-            "src" : "/spreadfirefox/images/IE/FF35_IE_160x280.png",
+            "src" : "http://images.spreadfirefox.com/utw/3.6/FF35_IE_160x280.png",
             "browser" : "msie",
             "locale" : "en-US",
             "url"   : "http://www.mozilla.com/en-US/firefox/upgrade.html?t=13"
@@ -116,7 +116,7 @@
         {
             "id" : 14,
             "size" : "180x150",
-            "src" : "/spreadfirefox/images/IE/FF35_IE_180x150.png",
+            "src" : "http://images.spreadfirefox.com/utw/3.6/FF35_IE_180x150.png",
             "browser" : "msie",
             "locale" : "en-US",
             "url"   : "http://www.mozilla.com/en-US/firefox/upgrade.html?t=14"
@@ -124,7 +124,7 @@
         {
             "id" : 15,
             "size" : "468x60",
-            "src" : "/spreadfirefox/images/IE/FF35_IE_468x60.png",
+            "src" : "http://images.spreadfirefox.com/utw/3.6/FF35_IE_468x60.png",
             "browser" : "msie",
             "locale" : "en-US",
             "url"   : "http://www.mozilla.com/en-US/firefox/upgrade.html?t=15"
@@ -132,7 +132,7 @@
         {
             "id" : 16,
             "size" : "728x90",
-            "src" : "/spreadfirefox/images/IE/FF35_IE_728x90.png",
+            "src" : "http://images.spreadfirefox.com/utw/3.6/FF35_IE_728x90.png",
             "browser" : "msie",
             "locale" : "en-US",
             "url"   : "http://www.mozilla.com/en-US/firefox/upgrade.html?t=16"
@@ -140,7 +140,7 @@
         {
             "id" : 17,
             "size" : "860x60",
-            "src" : "/spreadfirefox/images/IE/FF35_IE_860x60.png",
+            "src" : "http://images.spreadfirefox.com/utw/3.6/FF35_IE_860x60.png",
             "browser" : "msie",
             "locale" : "en-US",
             "url"   : "http://www.mozilla.com/en-US/firefox/upgrade.html?t=17"
@@ -148,7 +148,7 @@
         {
             "id" : 18,
             "size" : "120x240",
-            "src" : "/spreadfirefox/images/OTHER/FF35_OTHER_120x240.png",
+            "src" : "http://images.spreadfirefox.com/utw/3.6/FF35_OTHER_120x240.png",
             "browser" : "other",
             "locale" : "en-US",
             "url"   : "http://www.mozilla.com/en-US/firefox/upgrade.html?t=18"
@@ -156,7 +156,7 @@
         {
             "id" : 19,
             "size" : "160x280",
-            "src" : "/spreadfirefox/images/OTHER/FF35_OTHER_160x280.png",
+            "src" : "http://images.spreadfirefox.com/utw/3.6/FF35_OTHER_160x280.png",
             "browser" : "other",
             "locale" : "en-US",
             "url"   : "http://www.mozilla.com/en-US/firefox/upgrade.html?t=19"
@@ -164,7 +164,7 @@
         {
             "id" : 20,
             "size" : "180x150",
-            "src" : "/spreadfirefox/images/OTHER/FF35_OTHER_180x150.png",
+            "src" : "http://images.spreadfirefox.com/utw/3.6/FF35_OTHER_180x150.png",
             "browser" : "other",
             "locale" : "en-US",
             "url"   : "http://www.mozilla.com/en-US/firefox/upgrade.html?t=20"
@@ -172,7 +172,7 @@
         {
             "id" : 21,
             "size" : "468x60",
-            "src" : "/spreadfirefox/images/OTHER/FF35_OTHER_468x60.png",
+            "src" : "http://images.spreadfirefox.com/utw/3.6/FF35_OTHER_468x60.png",
             "browser" : "other",
             "locale" : "en-US",
             "url"   : "http://www.mozilla.com/en-US/firefox/upgrade.html?t=21"
@@ -180,7 +180,7 @@
         {
             "id" : 22,
             "size" : "728x90",
-            "src" : "/spreadfirefox/images/OTHER/FF35_OTHER_728x90.png",
+            "src" : "http://images.spreadfirefox.com/utw/3.6/FF35_OTHER_728x90.png",
             "browser" : "other",
             "locale" : "en-US",
             "url"   : "http://www.mozilla.com/en-US/firefox/upgrade.html?t=22"
@@ -188,7 +188,7 @@
         {
             "id" : 23,
             "size" : "860x60",
-            "src" : "/spreadfirefox/images/OTHER/FF35_OTHER_860x60.png",
+            "src" : "http://images.spreadfirefox.com/utw/3.6/FF35_OTHER_860x60.png",
             "browser" : "other",
             "locale" : "en-US",
             "url"   : "http://www.mozilla.com/en-US/firefox/upgrade.html?t=23"

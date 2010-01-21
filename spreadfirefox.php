@@ -8,7 +8,7 @@ Author: Mike Hostetler <mike@amountaintop.com>, A Mountain Top LLC
 Author URI: http://www.amountaintop.com
 */
 
-define('SFX_BUTTON_URL','http://sfx-images.mozilla.org/utw/buttons.json');
+define('SFX_BUTTON_URL','http://images.spreadfirefox.com/utw/buttons-36.json');
 
 add_action('widgets_init', 'sfx_register');
 add_action ('wp_head', 'sfx_dropdown');
@@ -28,7 +28,7 @@ function sfx_widget ($strWidgetArgsArray) {
     printf ('%s
                 <div id="sfx_image_holder">
                     <a id="sfx_image_url" href="http://www.mozilla.com/en-US/firefox/upgrade.html?t=18">
-                        <img border="0" id="sfx_image" alt="Spread Firefox" src="%s/spreadfirefox/images/OTHER/FF35_OTHER_120x240.png" />
+                        <img border="0" id="sfx_image" alt="Spread Firefox" src="http://images.spreadfirefox.com/utw/3.6/FF36_OTHER_120x240.png" />
                     </a>
                 </div>
                 %s
@@ -58,7 +58,7 @@ function sfx_dropdown ($strParameterArray) {
       printf ('
         <div id="sfx_close">[ <a href="#" title="Close this message">close</a> ]</div>
         <div id="sfx_header" onclick="window.location=\'%s\';" class="sfx_header">
-            <span id="sfx_message" class="sfx_message">Help Upgrade the Web: Download Firefox 3.5</span>
+            <span id="sfx_message" class="sfx_message">Help Upgrade the Web: Download Firefox 3.6</span>
         </div>',
         'http://www.mozilla.com/en-US/firefox/upgrade.html?uid=' . $strParameterArray['intAffiliateId']
       );
