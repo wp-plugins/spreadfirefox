@@ -25,6 +25,7 @@ jQuery(document).ready(function() {
 
 
 function sfx_apply_image (strSize, strLocale, strAffiliateId, strPluginUrl, strButtonList) {
+    BrowserDetect.init();
 
     var strCurrentBrowser = 'other';
 
