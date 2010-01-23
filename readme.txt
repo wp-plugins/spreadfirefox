@@ -1,8 +1,8 @@
 === Spread Firefox ===
-Contributors: Mike Hostetler
+Contributors: Mike Hostetler, Alex Buchanan
 Tags: spread firefox, firefox, sfx
-Tested up to: 2.8.1
-Stable tag: 1.0
+Tested up to: 2.9.1
+Stable tag: 1.1
 
 Help upgrade the web by showing a friendly Spread Firefox banner to users who are not using firefox.
 
