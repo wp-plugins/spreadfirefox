@@ -3,7 +3,7 @@
 Plugin Name: Spread Firefox
 Plugin URI: http://www.spreadfirefox.com
 Description: Help upgrade the web by showing a friendly 'Spread Firefox' banner to users who are not using firefox.
-Version: 1.0
+Version: 1.2
 Author: Mike Hostetler <mike@amountaintop.com>, A Mountain Top LLC
 Author URI: http://www.amountaintop.com
 */
